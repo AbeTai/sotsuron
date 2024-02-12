@@ -1,0 +1,5 @@
+graph
+log
+*.pdf
+.DS_Store
+library_install.py
